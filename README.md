@@ -51,6 +51,23 @@ git push -u origin main
 
 Al finalizar esta práctica, se logró crear un repositorio local, registrar cambios mediante commits, conectar el repositorio con GitHub y publicar la primera evidencia académica de aprendizaje.
 
+## Actualización de Clase 2
+
+En esta clase se trabajó la conexión entre el repositorio local y el repositorio remoto en GitHub.
+
+Se incorporaron los siguientes conceptos:
+
+- creación de un repositorio remoto en GitHub;
+- diferencia entre repositorio local y repositorio remoto;
+- cambio de nombre de la rama principal de `master` a `main`;
+- vinculación del repositorio local con GitHub mediante `origin`;
+- verificación del remoto con `git remote -v`;
+- publicación del proyecto con `git push -u origin main`;
+- creación de un archivo `README.md` profesional;
+- actualización del repositorio remoto con nuevos commits.
+
+Esta práctica permitió publicar la primera evidencia académica del programa en GitHub, dejando el proyecto disponible como repositorio remoto y visible públicamente.
+
 ## Actualización de Clase 3
 
 En esta clase se trabajó el flujo profesional de modificación de archivos en un repositorio existente.
