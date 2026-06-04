@@ -45,3 +45,31 @@ git log --oneline
 git branch -M main
 git remote add origin
 git push -u origin main
+```
+
+## Aprendizaje logrado
+
+Al finalizar esta práctica, se logró crear un repositorio local, registrar cambios mediante commits, conectar el repositorio con GitHub y publicar la primera evidencia académica de aprendizaje.
+
+## Actualización de Clase 3
+
+En esta clase se trabajó el flujo profesional de modificación de archivos en un repositorio existente.
+
+Se incorporaron los siguientes conceptos:
+
+- revisión del estado del repositorio con `git status`;
+- análisis de cambios no preparados con `git diff`;
+- preparación de cambios con `git add`;
+- revisión de cambios preparados con `git diff --staged`;
+- creación de commits claros;
+- actualización del repositorio remoto con `git push`.
+
+Esta práctica permite comprender cómo trabaja un desarrollador cuando modifica un proyecto ya existente y necesita revisar sus cambios antes de guardarlos definitivamente.
+
+## Autor
+
+Mariano Popolo
+
+## Estado del proyecto
+
+Repositorio académico en desarrollo, correspondiente a la Materia 1: Git, GitHub, Terminal e IA Profesional.
