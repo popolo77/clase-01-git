@@ -23,3 +23,15 @@ Línea de trabajo independiente dentro de un repositorio.
 
 HEAD:
 Referencia que indica en qué commit o rama estamos ubicados actualmente.
+
+Remote:
+Repositorio remoto alojado en una plataforma online como GitHub.
+
+Origin:
+Nombre convencional que Git utiliza para identificar el repositorio remoto principal.
+
+Push:
+Acción de subir commits desde el repositorio local hacia el repositorio remoto.
+
+Diff:
+Comparación entre versiones de un archivo o conjunto de cambios. Permite revisar qué se modificó antes de preparar o guardar los cambios.
