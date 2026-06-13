@@ -35,3 +35,27 @@ Acción de subir commits desde el repositorio local hacia el repositorio remoto.
 
 Diff:
 Comparación entre versiones de un archivo o conjunto de cambios. Permite revisar qué se modificó antes de preparar o guardar los cambios.
+
+Remote:
+Repositorio remoto alojado en una plataforma online como GitHub.
+
+Origin:
+Nombre convencional que Git utiliza para identificar el repositorio remoto principal.
+
+Push:
+Acción de subir commits desde el repositorio local hacia el repositorio remoto.
+
+Diff:
+Comparación entre versiones de un archivo o conjunto de cambios. Permite revisar qué se modificó antes de preparar o guardar los cambios.
+
+Branch:
+Línea de trabajo independiente dentro de un repositorio.
+
+Merge:
+Acción de integrar los cambios de una rama en otra.
+
+Fast-forward:
+Tipo de merge en el que Git puede avanzar directamente la rama principal porque no hubo nuevos commits en ella desde que se creó la rama secundaria.
+
+Pull rebase:
+Forma de traer cambios del repositorio remoto y reordenar los commits locales encima de esos cambios para mantener un historial más limpio.
