@@ -2,6 +2,49 @@
 
 Repositorio académico correspondiente a la Materia 1 del Programa Complementario de Formación Frontend, diseñado para complementar la Tecnicatura Universitaria en Programación de la UTN.
 
+## Metodología oficial del programa
+
+Este repositorio forma parte de la Materia 1 del Programa Complementario de Formación Frontend.
+
+La metodología definida para el programa establece que cada materia tendrá su propio repositorio actualizado en GitHub, funcionando como evidencia pública del proceso de aprendizaje.
+
+Cada repositorio deberá incluir:
+
+- clases documentadas;
+- recursos de consulta;
+- reflexiones personales;
+- bitácora técnica;
+- commits claros;
+- uso de ramas;
+- issues;
+- pull requests;
+- documentación profesional;
+- trabajo integrador final.
+
+El objetivo no es solamente guardar archivos, sino construir una evidencia ordenada, progresiva y defendible del aprendizaje realizado.
+
+## Estructura actual del repositorio
+
+```text
+README.md
+
+clases/
+  clase-01-git-local.md
+  clase-02-github-remoto.md
+  clase-03-git-diff.md
+  clase-04-ramas-merge.md
+
+recursos/
+  glosario-git.md
+
+reflexiones/
+  objetivos-formacion.md
+  reflexion-clase-01.md
+  politica-uso-ia.md
+
+bitacora/
+  bitacora-materia-1.md
+
 ## Objetivo del repositorio
 
 El objetivo de este repositorio es registrar la primera práctica formal de control de versiones utilizando Git y GitHub.
