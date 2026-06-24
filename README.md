@@ -1,14 +1,18 @@
 # Materia 1 - Git, GitHub, Terminal e IA Profesional
 
-Repositorio académico correspondiente a la Materia 1 del Programa Complementario de Formación Frontend, diseñado para complementar la Tecnicatura Universitaria en Programación de la UTN.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge\&logo=windowsterminal\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge\&logo=markdown\&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-## Objetivo del repositorio
+## Programa Complementario de Formación Frontend - UTN
 
-El objetivo de este repositorio es documentar el proceso de aprendizaje de la Materia 1, dejando evidencia clara y ordenada del uso de Git, GitHub, terminal, documentación profesional, trazabilidad académica y uso responsable de inteligencia artificial.
+Repositorio académico-profesional correspondiente a la **Materia 1: Git, GitHub, Terminal e IA Profesional**, dentro del Programa Complementario de Formación Frontend diseñado para complementar la Tecnicatura Universitaria en Programación de la UTN.
 
-Este repositorio funciona como entrega integradora de la materia y como base metodológica para las próximas materias del programa.
+> Objetivo: construir una base sólida de trabajo profesional con Git, GitHub, terminal, documentación, trazabilidad, Issues, Pull Requests, bitácora técnica y uso responsable de inteligencia artificial.
 
----
 
 ## Metodología oficial del programa
 
