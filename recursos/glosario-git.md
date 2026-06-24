@@ -59,3 +59,20 @@ Tipo de merge en el que Git puede avanzar directamente la rama principal porque 
 
 Pull rebase:
 Forma de traer cambios del repositorio remoto y reordenar los commits locales encima de esos cambios para mantener un historial más limpio.
+
+## Descripción
+
+Este Pull Request completa el glosario de comandos y conceptos principales trabajados durante la Materia 1.
+
+## Cambios realizados
+
+- Se agregaron comandos de configuración.
+- Se agregaron comandos de repositorio local.
+- Se agregaron comandos de revisión de cambios.
+- Se agregaron comandos de ramas.
+- Se agregaron comandos de repositorio remoto.
+- Se agregaron conceptos fundamentales de Git y GitHub.
+
+## Issue relacionado
+
+Closes #3
